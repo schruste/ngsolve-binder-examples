@@ -1,5 +1,5 @@
-from pyvista import set_plot_theme
-set_plot_theme('document')
+#from pyvista import set_plot_theme
+#set_plot_theme('document')
 
 from ngsolve import VTKOutput
 
