@@ -16,6 +16,6 @@
 * Jupyter notebook with a space-time DG example for a parabolic problem:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=space-time-dg.ipynb)
 
-* Jupyter notebook with a Crank-Nicholson example:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=Crank-Nicholson-heat.ipynb)
+* Jupyter notebook with a theta scheme example:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=theta-scheme-heat.ipynb)
         
