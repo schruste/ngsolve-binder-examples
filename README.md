@@ -21,4 +21,7 @@
 
 * Jupyter notebook with a linear elasticity example:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=linear-elasticity.ipynb)
-        
+
+* Jupyter notebook with a stationary Navier-Stokes example:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=navierstokes.ipynb)
+                
