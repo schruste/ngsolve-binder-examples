@@ -27,4 +27,10 @@
 
 * Jupyter notebook with a stationary Navier-Stokes example:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=navierstokes.ipynb)
-                
+
+* Jupyter notebook with a mixed Poisson example:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=mixed.ipynb)
+
+* Jupyter notebook with a hybrid mixed Poisson example:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=hybrid.ipynb)
+                                
