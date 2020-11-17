@@ -34,5 +34,5 @@
 * Jupyter notebook with a hybrid mixed Poisson example:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=hybrid.ipynb)
 
-* Jupyter notebook with a simple finite volume example:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=fvm-simple.ipynb)
+* Jupyter notebook with a basic finite volume example for scalar conservation laws (1D / 2D):
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=fvm-scalar-basic.ipynb)
