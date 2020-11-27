@@ -5,7 +5,7 @@ channels:
   - pyviz
 dependencies:
   - python
-  - ngsolve
+  - ngsolve-nogui
   - bokeh
   - pyviz_comms
   - panel
