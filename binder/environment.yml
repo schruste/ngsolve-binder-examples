@@ -5,7 +5,7 @@ channels:
   - pyviz
 dependencies:
   - python
-  - ngsolve-nogui
+  - ngsolve
   - bokeh
   - pyviz_comms
   - panel
@@ -21,3 +21,6 @@ dependencies:
     - git+git://github.com/pyvista/pyvista@master
     - pyct
     - jupyterthemes
+
+#  - ngsolve-nogui
+        
