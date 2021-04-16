@@ -79,7 +79,7 @@ print("* 1D Drawing available with patched 'Draw' or simply 'Draw1D'")
 
 oldDraw = Draw
 def Draw(cf_or_mesh,mesh=None,label=None,*args,**kwargs):
-    if mesh == none:
+    if mesh == None:
         oldDraw(cf_or_mesh)
     else:
         cf = cf_or_mesh
