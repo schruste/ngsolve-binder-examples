@@ -44,3 +44,8 @@
 
 * Jupyter notebook with a basic finite volume example for scalar conservation laws (1D / 2D):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/npde?filepath=npde3/fvm-scalar-basic.ipynb)
+
+## NPDE4
+
+* Jupyter notebook with a basic finite volume example for scalar conservation laws (1D / 2D):
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/npde?filepath=npde4/lset.ipynb)
