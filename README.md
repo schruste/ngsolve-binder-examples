@@ -6,6 +6,10 @@
 * Jupyter lab:       
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?urlpath=lab)
 
+* FEM crash course:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=fem_crash/fem.ipynb)
+
+
 ## NPDE1 
 
 * Jupyter notebook with a mini tutorial:
