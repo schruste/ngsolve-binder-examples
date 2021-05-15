@@ -53,3 +53,6 @@
 
 * Jupyter notebook with a very basic level set transport prolbem (2D):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=npde4/lset.ipynb)
+
+* Jupyter notebook with a fitted discretization of a scalar interface problem (2D):
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=npde4/intfprob_fitted.ipynb)
