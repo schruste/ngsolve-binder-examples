@@ -56,3 +56,6 @@
 
 * Jupyter notebook with a fitted discretization of a scalar interface problem (2D):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=npde4/intfprob_fitted.ipynb)
+
+* Jupyter notebook with an unfitted discretization of a scalar Poisson problem (2D):
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=npde4/gp_unf_poisson.ipynb)
