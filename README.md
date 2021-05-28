@@ -59,3 +59,6 @@
 
 * Jupyter notebook with an unfitted discretization of a scalar Poisson problem (2D):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=npde4/gp_unf_poisson.ipynb)
+
+* Jupyter notebook with a DG-in-time discretization (1D):
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=npde4/dgintime.ipynb)
