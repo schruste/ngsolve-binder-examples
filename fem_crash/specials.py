@@ -206,6 +206,18 @@ def Spy(N=8, order=1):
     plt.spy(A)
     plt.show()
 
+def SpyDG(N=8, order=1):
+    mesh1D = Mesh1D(N)
+    fes = Discontinuous(H1(mesh1D, order=order)) #, dirichlet=)
+    u,v = fes.TnT()
+    a = BilinearForm(fes)
+    a += SymbolicBFI(grad(u)*grad(v))
+    a.Assemble()
+    rows,cols,vals = a.mat.COO()
+    A = sp.csr_matrix((vals,(rows,cols)))
+    plt.figure(figsize=(7,7))
+    plt.spy(A)
+    plt.show()
     
     
 
