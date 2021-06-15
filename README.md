@@ -9,6 +9,8 @@
 * FEM crash course:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=fem_crash/fem.ipynb)
 
+* FEM 1D explanations:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schruste/ngsolve-binder-examples/master?filepath=fem_crash/fem1d.ipynb)
 
 ## NPDE1 
 
